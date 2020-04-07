@@ -1,0 +1,8 @@
+prefix=/home/art233/catkin_ws/devel
+
+Name: sample_opencv_pkg
+Description: Description of sample_opencv_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

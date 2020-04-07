@@ -1,0 +1,8 @@
+prefix=/home/art233/catkin_ws/install
+
+Name: lane_detect
+Description: Description of lane_detect
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lapi_lane_detection
+Requires: roscpp
